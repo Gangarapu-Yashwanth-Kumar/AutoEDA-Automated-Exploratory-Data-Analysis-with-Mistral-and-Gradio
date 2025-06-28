@@ -67,4 +67,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 * **Ethical Use**: This tool is designed for educational and analytical purposes. Users are responsible for its ethical use and adherence to data privacy regulations.
 
 ## 🙏 Thank You Note
-Thank you for exploring AutoEDA! We hope this tool helps streamline your data analysis workflows and provides valuable insights.
+Thank you for exploring AutoEDA! We hope this tool helps streamline your data analysis workflows and provides valuable insights..
