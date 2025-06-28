@@ -57,9 +57,6 @@ AutoEDA: An automated solution for Exploratory Data Analysis. Upload your CSV, g
     ```
     Open the notebook in your web browser and run all cells. This will launch the Gradio application, usually accessible at `http://127.0.0.1:7860/`.
 
-## 📸 Example Output (Screenshots)
-*(Coming soon: Add screenshots here showing the Gradio interface with an uploaded dataset, the EDA report, and generated plots.)*
-
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
 
